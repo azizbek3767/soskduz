@@ -1,0 +1,7 @@
+# Тестовый ключ
+
+G0kuaIoCcM24XxKCQ7Cf6NSmS6sarWHIAVJQ
+
+# Ключ
+
+7w20O3PKH1OGNOp0dCRrX9VIw#4uMxHBqawO

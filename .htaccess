@@ -1,0 +1,316 @@
+<IfModule mod_autoindex>
+  Options -Indexes
+</IfModule>
+DirectoryIndex /public/section.php?sectionId=1&rewrite=c675a153db015479510beed4509a35e4
+RewriteEngine On
+
+RewriteRule ^autodiscover/autodiscover.xml$ - [F]
+
+SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1
+#SetEnvIf Content-Type "(.*)" HTTP_CONTENT_TYPE=$1
+#SetEnvIf Accept "(.*)" HTTP_ACCEPT=$1
+
+
+RewriteCond %{HTTP_HOST} !^$
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteCond %{HTTPS}s ^on(s)|
+RewriteRule ^ http%1://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L,NE]
+
+
+
+
+RewriteCond %{HTTPS} =off 
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [QSA,L]
+
+
+ErrorDocument 404 /public/error-404.php?rewrite=c675a153db015479510beed4509a35e4
+
+
+#RewriteRule ^rss.xml$ /public/rss.php?rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^sitemap.xml$ /public/sitemap.php?rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^index\.htm$ https://www.sos-kd.uz/ [L,R=301]
+
+RewriteRule ^kto\-my$ https://www.sos-kd.uz/kto-my/ [L,R=301]
+RewriteRule ^kto\-my/$ /public/section.php?%{QUERY_STRING}&sectionId=2&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^kto\-my/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=2&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^kto\-my/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=2&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^kto\-my/smi\-o\-nas$ https://www.sos-kd.uz/kto-my/smi-o-nas/ [L,R=301]
+RewriteRule ^kto\-my/smi\-o\-nas/$ /public/section.php?%{QUERY_STRING}&sectionId=58&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^kto\-my/smi\-o\-nas/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=58&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^kto\-my/smi\-o\-nas/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=58&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^kto\-my/otchety\-i\-ofitsialnye\-dokumenty$ https://www.sos-kd.uz/kto-my/otchety-i-ofitsialnye-dokumenty/ [L,R=301]
+RewriteRule ^kto\-my/otchety\-i\-ofitsialnye\-dokumenty/$ /public/section.php?%{QUERY_STRING}&sectionId=13&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^kto\-my/otchety\-i\-ofitsialnye\-dokumenty/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=13&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^kto\-my/otchety\-i\-ofitsialnye\-dokumenty/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=13&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^kto\-my/organizatsionnaya\-struktura$ https://www.sos-kd.uz/kto-my/organizatsionnaya-struktura/ [L,R=301]
+RewriteRule ^kto\-my/organizatsionnaya\-struktura/$ /public/section.php?%{QUERY_STRING}&sectionId=12&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^kto\-my/organizatsionnaya\-struktura/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=12&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^kto\-my/organizatsionnaya\-struktura/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=12&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^kto\-my/assotsiatsiya\-sos\-detskie\-derevni\-uzbekistana$ https://www.sos-kd.uz/kto-my/assotsiatsiya-sos-detskie-derevni-uzbekistana/ [L,R=301]
+RewriteRule ^kto\-my/assotsiatsiya\-sos\-detskie\-derevni\-uzbekistana/$ /public/section.php?%{QUERY_STRING}&sectionId=11&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^kto\-my/assotsiatsiya\-sos\-detskie\-derevni\-uzbekistana/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=11&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^kto\-my/assotsiatsiya\-sos\-detskie\-derevni\-uzbekistana/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=11&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^kto\-my/ideya$ https://www.sos-kd.uz/kto-my/ideya/ [L,R=301]
+RewriteRule ^kto\-my/ideya/$ /public/section.php?%{QUERY_STRING}&sectionId=10&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^kto\-my/ideya/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=10&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^kto\-my/ideya/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=10&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^chto\-my\-delaem$ https://www.sos-kd.uz/chto-my-delaem/ [L,R=301]
+RewriteRule ^chto\-my\-delaem/$ /public/section.php?%{QUERY_STRING}&sectionId=3&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-my\-delaem/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=3&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-my\-delaem/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=3&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^chto\-my\-delaem/voprosy\-i\-otvety$ https://www.sos-kd.uz/chto-my-delaem/voprosy-i-otvety/ [L,R=301]
+RewriteRule ^chto\-my\-delaem/voprosy\-i\-otvety/$ /public/section.php?%{QUERY_STRING}&sectionId=32&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-my\-delaem/voprosy\-i\-otvety/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=32&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-my\-delaem/voprosy\-i\-otvety/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=32&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^chto\-my\-delaem/proyekty$ https://www.sos-kd.uz/chto-my-delaem/proyekty/ [L,R=301]
+RewriteRule ^chto\-my\-delaem/proyekty/$ /public/section.php?%{QUERY_STRING}&sectionId=18&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-my\-delaem/proyekty/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=18&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-my\-delaem/proyekty/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=18&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^chto\-my\-delaem/zashita\-prav\-detey$ https://www.sos-kd.uz/chto-my-delaem/zashita-prav-detey/ [L,R=301]
+RewriteRule ^chto\-my\-delaem/zashita\-prav\-detey/$ /public/section.php?%{QUERY_STRING}&sectionId=55&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-my\-delaem/zashita\-prav\-detey/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=55&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-my\-delaem/zashita\-prav\-detey/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=55&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^chto\-my\-delaem/soprovojdeniye\-molodyoji$ https://www.sos-kd.uz/chto-my-delaem/soprovojdeniye-molodyoji/ [L,R=301]
+RewriteRule ^chto\-my\-delaem/soprovojdeniye\-molodyoji/$ /public/section.php?%{QUERY_STRING}&sectionId=17&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-my\-delaem/soprovojdeniye\-molodyoji/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=17&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-my\-delaem/soprovojdeniye\-molodyoji/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=17&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^chto\-my\-delaem/podderzhka\-uyazvimyh\-semej$ https://www.sos-kd.uz/chto-my-delaem/podderzhka-uyazvimyh-semej/ [L,R=301]
+RewriteRule ^chto\-my\-delaem/podderzhka\-uyazvimyh\-semej/$ /public/section.php?%{QUERY_STRING}&sectionId=16&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-my\-delaem/podderzhka\-uyazvimyh\-semej/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=16&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-my\-delaem/podderzhka\-uyazvimyh\-semej/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=16&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^chto\-my\-delaem/alternativnaya\-opeka$ https://www.sos-kd.uz/chto-my-delaem/alternativnaya-opeka/ [L,R=301]
+RewriteRule ^chto\-my\-delaem/alternativnaya\-opeka/$ /public/section.php?%{QUERY_STRING}&sectionId=15&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-my\-delaem/alternativnaya\-opeka/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=15&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-my\-delaem/alternativnaya\-opeka/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=15&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^gde\-my\-rabotaem$ https://www.sos-kd.uz/gde-my-rabotaem/ [L,R=301]
+RewriteRule ^gde\-my\-rabotaem/$ /public/section.php?%{QUERY_STRING}&sectionId=4&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=4&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=4&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^gde\-my\-rabotaem/surhandarya$ https://www.sos-kd.uz/gde-my-rabotaem/surhandarya/ [L,R=301]
+RewriteRule ^gde\-my\-rabotaem/surhandarya/$ /public/section.php?%{QUERY_STRING}&sectionId=53&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/surhandarya/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=53&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/surhandarya/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=53&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^gde\-my\-rabotaem/namangan$ https://www.sos-kd.uz/gde-my-rabotaem/namangan/ [L,R=301]
+RewriteRule ^gde\-my\-rabotaem/namangan/$ /public/section.php?%{QUERY_STRING}&sectionId=52&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/namangan/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=52&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/namangan/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=52&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^gde\-my\-rabotaem/djizak$ https://www.sos-kd.uz/gde-my-rabotaem/djizak/ [L,R=301]
+RewriteRule ^gde\-my\-rabotaem/djizak/$ /public/section.php?%{QUERY_STRING}&sectionId=51&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/djizak/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=51&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/djizak/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=51&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^gde\-my\-rabotaem/fergana$ https://www.sos-kd.uz/gde-my-rabotaem/fergana/ [L,R=301]
+RewriteRule ^gde\-my\-rabotaem/fergana/$ /public/section.php?%{QUERY_STRING}&sectionId=50&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/fergana/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=50&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/fergana/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=50&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^gde\-my\-rabotaem/sirdarya$ https://www.sos-kd.uz/gde-my-rabotaem/sirdarya/ [L,R=301]
+RewriteRule ^gde\-my\-rabotaem/sirdarya/$ /public/section.php?%{QUERY_STRING}&sectionId=49&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/sirdarya/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=49&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/sirdarya/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=49&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^gde\-my\-rabotaem/navoi$ https://www.sos-kd.uz/gde-my-rabotaem/navoi/ [L,R=301]
+RewriteRule ^gde\-my\-rabotaem/navoi/$ /public/section.php?%{QUERY_STRING}&sectionId=47&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/navoi/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=47&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/navoi/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=47&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^gde\-my\-rabotaem/kashkadarya$ https://www.sos-kd.uz/gde-my-rabotaem/kashkadarya/ [L,R=301]
+RewriteRule ^gde\-my\-rabotaem/kashkadarya/$ /public/section.php?%{QUERY_STRING}&sectionId=46&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/kashkadarya/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=46&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/kashkadarya/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=46&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^gde\-my\-rabotaem/bukhara$ https://www.sos-kd.uz/gde-my-rabotaem/bukhara/ [L,R=301]
+RewriteRule ^gde\-my\-rabotaem/bukhara/$ /public/section.php?%{QUERY_STRING}&sectionId=45&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/bukhara/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=45&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/bukhara/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=45&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^gde\-my\-rabotaem/karakalpakstan$ https://www.sos-kd.uz/gde-my-rabotaem/karakalpakstan/ [L,R=301]
+RewriteRule ^gde\-my\-rabotaem/karakalpakstan/$ /public/section.php?%{QUERY_STRING}&sectionId=44&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/karakalpakstan/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=44&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/karakalpakstan/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=44&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^gde\-my\-rabotaem/andizhan$ https://www.sos-kd.uz/gde-my-rabotaem/andizhan/ [L,R=301]
+RewriteRule ^gde\-my\-rabotaem/andizhan/$ /public/section.php?%{QUERY_STRING}&sectionId=43&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/andizhan/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=43&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/andizhan/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=43&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^gde\-my\-rabotaem/xorezm$ https://www.sos-kd.uz/gde-my-rabotaem/xorezm/ [L,R=301]
+RewriteRule ^gde\-my\-rabotaem/xorezm/$ /public/section.php?%{QUERY_STRING}&sectionId=21&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/xorezm/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=21&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/xorezm/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=21&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^gde\-my\-rabotaem/samarkand$ https://www.sos-kd.uz/gde-my-rabotaem/samarkand/ [L,R=301]
+RewriteRule ^gde\-my\-rabotaem/samarkand/$ /public/section.php?%{QUERY_STRING}&sectionId=20&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/samarkand/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=20&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/samarkand/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=20&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^gde\-my\-rabotaem/tashkent1$ https://www.sos-kd.uz/gde-my-rabotaem/tashkent1/ [L,R=301]
+RewriteRule ^gde\-my\-rabotaem/tashkent1/$ /public/section.php?%{QUERY_STRING}&sectionId=19&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/tashkent1/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=19&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/tashkent1/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=19&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^gde\-my\-rabotaem/tashkent$ https://www.sos-kd.uz/gde-my-rabotaem/tashkent/ [L,R=301]
+RewriteRule ^gde\-my\-rabotaem/tashkent/$ /public/section.php?%{QUERY_STRING}&sectionId=48&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/tashkent/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=48&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gde\-my\-rabotaem/tashkent/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=48&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^chto\-mozhete\-sdelat\-vy$ https://www.sos-kd.uz/chto-mozhete-sdelat-vy/ [L,R=301]
+RewriteRule ^chto\-mozhete\-sdelat\-vy/$ /public/section.php?%{QUERY_STRING}&sectionId=6&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-mozhete\-sdelat\-vy/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=6&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-mozhete\-sdelat\-vy/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=6&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^chto\-mozhete\-sdelat\-vy/rekvizity$ https://www.sos-kd.uz/chto-mozhete-sdelat-vy/rekvizity/ [L,R=301]
+RewriteRule ^chto\-mozhete\-sdelat\-vy/rekvizity/$ /public/section.php?%{QUERY_STRING}&sectionId=31&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-mozhete\-sdelat\-vy/rekvizity/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=31&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-mozhete\-sdelat\-vy/rekvizity/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=31&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^chto\-mozhete\-sdelat\-vy/yashhiki\-dlya\-pozhertvovanij$ https://www.sos-kd.uz/chto-mozhete-sdelat-vy/yashhiki-dlya-pozhertvovanij/ [L,R=301]
+RewriteRule ^chto\-mozhete\-sdelat\-vy/yashhiki\-dlya\-pozhertvovanij/$ /public/section.php?%{QUERY_STRING}&sectionId=24&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-mozhete\-sdelat\-vy/yashhiki\-dlya\-pozhertvovanij/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=24&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-mozhete\-sdelat\-vy/yashhiki\-dlya\-pozhertvovanij/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=24&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^chto\-mozhete\-sdelat\-vy/blagotvoritelnye\-otkrytki$ https://www.sos-kd.uz/chto-mozhete-sdelat-vy/blagotvoritelnye-otkrytki/ [L,R=301]
+RewriteRule ^chto\-mozhete\-sdelat\-vy/blagotvoritelnye\-otkrytki/$ /public/section.php?%{QUERY_STRING}&sectionId=23&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-mozhete\-sdelat\-vy/blagotvoritelnye\-otkrytki/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=23&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-mozhete\-sdelat\-vy/blagotvoritelnye\-otkrytki/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=23&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^chto\-mozhete\-sdelat\-vy/pozhertvovaniya$ https://www.sos-kd.uz/chto-mozhete-sdelat-vy/pozhertvovaniya/ [L,R=301]
+RewriteRule ^chto\-mozhete\-sdelat\-vy/pozhertvovaniya/$ /public/section.php?%{QUERY_STRING}&sectionId=22&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-mozhete\-sdelat\-vy/pozhertvovaniya/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=22&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-mozhete\-sdelat\-vy/pozhertvovaniya/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=22&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^novosti\-i\-meropriyatiya$ https://www.sos-kd.uz/novosti-i-meropriyatiya/ [L,R=301]
+RewriteRule ^novosti\-i\-meropriyatiya/$ /public/section.php?%{QUERY_STRING}&sectionId=7&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^novosti\-i\-meropriyatiya/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=7&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^novosti\-i\-meropriyatiya/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=7&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^kontakty$ https://www.sos-kd.uz/kontakty/ [L,R=301]
+RewriteRule ^kontakty/$ /public/section.php?%{QUERY_STRING}&sectionId=9&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^kontakty/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=9&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^kontakty/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=9&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^video$ https://www.sos-kd.uz/video/ [L,R=301]
+RewriteRule ^video/$ /public/section.php?%{QUERY_STRING}&sectionId=8&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^video/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=8&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^video/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=8&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^chto\-vy\-poluchite$ https://www.sos-kd.uz/chto-vy-poluchite/ [L,R=301]
+RewriteRule ^chto\-vy\-poluchite/$ /public/section.php?%{QUERY_STRING}&sectionId=25&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-vy\-poluchite/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=25&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-vy\-poluchite/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=25&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^chto\-vy\-poluchite/kandidat\-na\-vakansiyu\-sos\-vospitatel\-sos\-mama$ https://www.sos-kd.uz/chto-vy-poluchite/kandidat-na-vakansiyu-sos-vospitatel-sos-mama/ [L,R=301]
+RewriteRule ^chto\-vy\-poluchite/kandidat\-na\-vakansiyu\-sos\-vospitatel\-sos\-mama/$ /public/section.php?%{QUERY_STRING}&sectionId=28&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-vy\-poluchite/kandidat\-na\-vakansiyu\-sos\-vospitatel\-sos\-mama/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=28&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-vy\-poluchite/kandidat\-na\-vakansiyu\-sos\-vospitatel\-sos\-mama/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=28&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^chto\-vy\-poluchite/kandidat\-na\-vakansiyu\-v\-sos\-detskoj\-derevne$ https://www.sos-kd.uz/chto-vy-poluchite/kandidat-na-vakansiyu-v-sos-detskoj-derevne/ [L,R=301]
+RewriteRule ^chto\-vy\-poluchite/kandidat\-na\-vakansiyu\-v\-sos\-detskoj\-derevne/$ /public/section.php?%{QUERY_STRING}&sectionId=27&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-vy\-poluchite/kandidat\-na\-vakansiyu\-v\-sos\-detskoj\-derevne/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=27&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-vy\-poluchite/kandidat\-na\-vakansiyu\-v\-sos\-detskoj\-derevne/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=27&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^chto\-vy\-poluchite/kandidat\-na\-vakansiyu\-v\-natsionalnom\-ofise$ https://www.sos-kd.uz/chto-vy-poluchite/kandidat-na-vakansiyu-v-natsionalnom-ofise/ [L,R=301]
+RewriteRule ^chto\-vy\-poluchite/kandidat\-na\-vakansiyu\-v\-natsionalnom\-ofise/$ /public/section.php?%{QUERY_STRING}&sectionId=26&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-vy\-poluchite/kandidat\-na\-vakansiyu\-v\-natsionalnom\-ofise/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=26&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^chto\-vy\-poluchite/kandidat\-na\-vakansiyu\-v\-natsionalnom\-ofise/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=26&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^partners$ https://www.sos-kd.uz/partners/ [L,R=301]
+RewriteRule ^partners/$ /public/section.php?%{QUERY_STRING}&sectionId=5&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^partners/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=5&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^partners/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=5&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^magazin$ https://www.sos-kd.uz/magazin/ [L,R=301]
+RewriteRule ^magazin/$ /public/section.php?%{QUERY_STRING}&sectionId=33&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^magazin/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=33&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^magazin/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=33&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^magazin/home\-made$ https://www.sos-kd.uz/magazin/home-made/ [L,R=301]
+RewriteRule ^magazin/home\-made/$ /public/section.php?%{QUERY_STRING}&sectionId=36&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^magazin/home\-made/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=36&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^magazin/home\-made/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=36&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^magazin/t\-shirts$ https://www.sos-kd.uz/magazin/t-shirts/ [L,R=301]
+RewriteRule ^magazin/t\-shirts/$ /public/section.php?%{QUERY_STRING}&sectionId=35&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^magazin/t\-shirts/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=35&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^magazin/t\-shirts/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=35&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^magazin/postcards$ https://www.sos-kd.uz/magazin/postcards/ [L,R=301]
+RewriteRule ^magazin/postcards/$ /public/section.php?%{QUERY_STRING}&sectionId=34&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^magazin/postcards/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=34&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^magazin/postcards/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=34&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^basket$ https://www.sos-kd.uz/basket/ [L,R=301]
+RewriteRule ^basket/$ /public/section.php?%{QUERY_STRING}&sectionId=37&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^basket/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=37&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^basket/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=37&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^number\-and\-facts$ https://www.sos-kd.uz/number-and-facts/ [L,R=301]
+RewriteRule ^number\-and\-facts/$ /public/section.php?%{QUERY_STRING}&sectionId=38&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^number\-and\-facts/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=38&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^number\-and\-facts/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=38&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^number\-and\-facts/molodyh\-lyudej\-iz\-sos$ https://www.sos-kd.uz/number-and-facts/molodyh-lyudej-iz-sos/ [L,R=301]
+RewriteRule ^number\-and\-facts/molodyh\-lyudej\-iz\-sos/$ /public/section.php?%{QUERY_STRING}&sectionId=41&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^number\-and\-facts/molodyh\-lyudej\-iz\-sos/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=41&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^number\-and\-facts/molodyh\-lyudej\-iz\-sos/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=41&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^number\-and\-facts/na\-segodnyashnij\-den$ https://www.sos-kd.uz/number-and-facts/na-segodnyashnij-den/ [L,R=301]
+RewriteRule ^number\-and\-facts/na\-segodnyashnij\-den/$ /public/section.php?%{QUERY_STRING}&sectionId=40&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^number\-and\-facts/na\-segodnyashnij\-den/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=40&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^number\-and\-facts/na\-segodnyashnij\-den/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=40&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^number\-and\-facts/sos\-semyah\-vospityvaetsya$ https://www.sos-kd.uz/number-and-facts/sos-semyah-vospityvaetsya/ [L,R=301]
+RewriteRule ^number\-and\-facts/sos\-semyah\-vospityvaetsya/$ /public/section.php?%{QUERY_STRING}&sectionId=39&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^number\-and\-facts/sos\-semyah\-vospityvaetsya/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=39&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^number\-and\-facts/sos\-semyah\-vospityvaetsya/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=39&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^gallery$ https://www.sos-kd.uz/gallery/ [L,R=301]
+RewriteRule ^gallery/$ /public/section.php?%{QUERY_STRING}&sectionId=42&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gallery/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=42&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^gallery/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=42&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^offer$ https://www.sos-kd.uz/offer/ [L,R=301]
+RewriteRule ^offer/$ /public/section.php?%{QUERY_STRING}&sectionId=54&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^offer/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=54&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^offer/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=54&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^vakansii$ https://www.sos-kd.uz/vakansii/ [L,R=301]
+RewriteRule ^vakansii/$ /public/section.php?%{QUERY_STRING}&sectionId=14&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^vakansii/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=14&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^vakansii/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=14&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^vakansii/printsipy\-raboty\-s\-personalom$ https://www.sos-kd.uz/vakansii/printsipy-raboty-s-personalom/ [L,R=301]
+RewriteRule ^vakansii/printsipy\-raboty\-s\-personalom/$ /public/section.php?%{QUERY_STRING}&sectionId=30&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^vakansii/printsipy\-raboty\-s\-personalom/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=30&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^vakansii/printsipy\-raboty\-s\-personalom/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=30&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^vakansii/standarty\-upravleniya\-personalom\-sos\-detskie\-derevni\-uzbekistana$ https://www.sos-kd.uz/vakansii/standarty-upravleniya-personalom-sos-detskie-derevni-uzbekistana/ [L,R=301]
+RewriteRule ^vakansii/standarty\-upravleniya\-personalom\-sos\-detskie\-derevni\-uzbekistana/$ /public/section.php?%{QUERY_STRING}&sectionId=29&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^vakansii/standarty\-upravleniya\-personalom\-sos\-detskie\-derevni\-uzbekistana/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=29&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^vakansii/standarty\-upravleniya\-personalom\-sos\-detskie\-derevni\-uzbekistana/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=29&rewrite=c675a153db015479510beed4509a35e4 [L]
+
+RewriteRule ^policy$ https://www.sos-kd.uz/policy/ [L,R=301]
+RewriteRule ^policy/$ /public/section.php?%{QUERY_STRING}&sectionId=56&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^policy/page([0-9]+)\.htm$ /public/section.php?%{QUERY_STRING}&sectionId=56&page=$1&rewrite=c675a153db015479510beed4509a35e4 [L]
+RewriteRule ^policy/([^/]+)\.htm$ /public/article.php?%{QUERY_STRING}&fileName=$1&sectionId=56&rewrite=c675a153db015479510beed4509a35e4 [L]
+

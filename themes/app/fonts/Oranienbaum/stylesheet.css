@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Oranienbaum';
+    src: url('Oranienbaum-Regular.woff2') format('woff2'),
+        url('Oranienbaum-Regular.woff') format('woff'),
+        url('Oranienbaum-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

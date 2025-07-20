@@ -1,0 +1,238 @@
+[
+    {
+      "name": "Статистика",
+      "icon": "fa fa-chart-area",
+      "link": "null",
+      "accessLevel": ["developer", "administrator"],
+      "activeItem": ["overview", "visitors", "referers", "bots"],
+      "children": [
+          {
+              "name": "Обзор",
+              "icon": "fa fa-signal",
+              "link": "stats.overview.php",
+              "activeItem": "overview",
+              "accessLevel": ["developer", "administrator"]
+          }, {
+              "name": "Посетители",
+              "icon": "fa fa-male",
+              "link": "stats.visitors.php",
+              "activeItem": "visitors",
+              "accessLevel": ["developer", "administrator"]
+          }, {
+              "name": "Источники",
+              "icon": "fa fa-globe",
+              "link": "stats.referers.php",
+              "activeItem": "referers",
+              "accessLevel": ["developer", "administrator"]
+          }, {
+              "name": "Боты",
+              "icon": "fab fa-android",
+              "link": "stats.bots.php",
+              "activeItem": "bots",
+              "accessLevel": ["developer", "administrator"]
+          }
+      ]
+    },  {
+        "name": "Структура",
+        "icon": "fa fa-layer-group",
+        "link": "sections.php",
+        "accessLevel": ["developer", "administrator"],
+        "activeItem": ["sections"],
+        "children": [
+            {
+                "name": "Структура",
+                "icon": "fa fa-layer-group",
+                "link": "sections.php",
+                "activeItem": "sections",
+                "accessLevel": ["developer", "administrator"]
+            }
+        ]
+    }, {
+        "name": "Контент",
+        "icon": "fa fa-file-contract",
+        "link": "null",
+        "accessLevel": ["developer", "administrator", "editor", "writer"],
+        "activeItem": ["sliders", "articles", "events", "news", "gallerys", "files", "banners"],
+        "children": [
+            {
+                "name": "Слайдер",
+                "icon": "fa fa-file-contract",
+                "link": "sliders.php",
+                "activeItem": "sliders",
+                "accessLevel": ["developer", "administrator", "editor", "writer"]
+            }, {
+                "name": "Контент",
+                "icon": "fa fa-file-contract",
+                "link": "articles.php",
+                "activeItem": "articles",
+                "accessLevel": ["developer", "administrator", "editor", "writer"]
+            }, {
+                "name": "Новости",
+                "icon": "fa fa-file-contract",
+                "link": "news.php",
+                "activeItem": "news",
+                "accessLevel": ["developer"]
+            },  {
+                "name": "События",
+                "icon": "fa fa-file-contract",
+                "link": "events.php",
+                "activeItem": "events",
+                "accessLevel": ["developer", "administrator", "editor", "writer"]
+            },{
+                "name": "Галерея",
+                "icon": "fa fa-file-contract",
+                "link": "gallerys.php",
+                "activeItem": "gallerys",
+                "accessLevel": ["developer"]
+            }, {
+                "name": "Загрузки",
+                "icon": "fa fa-file-contract",
+                "link": "files.php",
+                "activeItem": "files",
+                "accessLevel": ["developer"]
+            }
+        ]
+    },{
+        "name": "Система",
+        "icon": "fa fa-cog",
+        "link": "customers.php",
+        "accessLevel": ["developer", "administrator"],
+        "activeItem": ["users", "logo", "settings", "socials", "menu", "maps", "languages", "currency"],
+        "children": [
+            {
+                "name": "Администраторы",
+                "icon": "fa fa-users",
+                "link": "users.php",
+                "activeItem": "users",
+                "accessLevel": ["developer", "administrator"]
+            }, {
+                "name": "Логотип сайта",
+                "icon": "fab fa-r-project",
+                "link": "logo.php",
+                "activeItem": "logo",
+                "accessLevel": ["developer", "administrator"]
+            }, {
+                "name": "Настройки",
+                "icon": "fa fa-cogs",
+                "link": "settings.php",
+                "activeItem": "settings",
+                "accessLevel": ["developer", "administrator"]
+            }, {
+                "name": "Социальные сети",
+                "icon": "fa fa-link",
+                "link": "socials.php",
+                "activeItem": "socials",
+                "accessLevel": ["developer", "administrator"]
+            },  {
+                "name": "Настройки карты",
+                "icon": "fa fa-map-marked-alt",
+                "link": "maps.php",
+                "activeItem": "maps",
+                "accessLevel": ["developer", "administrator"]
+            }, {
+                "name": "Языки",
+                "icon": "fa fa-flag",
+                "link": "languages.php",
+                "activeItem": "languages",
+                "accessLevel": ["developer"]
+            }
+        ]
+
+    },{
+        "name": "Логи, ошибки",
+        "icon": "fa fa-exclamation-triangle",
+        "link": "javascript:;",
+        "accessLevel": ["developer"],
+        "activeItem": ["errors", "logaction", "lowerrors", "syserrors"],
+        "children": [
+            {
+                "name": "Ошибки",
+                "icon": "fa fa-exclamation-triangle",
+                "link": "stats.errors.php",
+                "activeItem": "errors",
+                "accessLevel": ["developer"]
+            }, {
+                "name": "Лог действий",
+                "icon": "fa fa-exclamation-triangle",
+                "link": "logaction.php",
+                "activeItem": "logaction",
+                "accessLevel": ["developer"]
+            }, {
+                "name": "Ошибки PHP",
+                "icon": "fa fa-exclamation-triangle",
+                "link": "lowerrors.php",
+                "activeItem": "lowerrors",
+                "accessLevel": ["developer"]
+            }, {
+                "name": "Критические ошибки",
+                "icon": "fa fa-exclamation-triangle",
+                "link": "syserrors.php",
+                "activeItem": "syserrors",
+                "accessLevel": ["developer"]
+            }
+        ]
+    },{
+        "name": "Информация о сервере",
+        "icon": "fab fa-php",
+        "link": "javascript:;",
+        "accessLevel": ["developer"],
+        "activeItem": ["serverinfo", "inivars"],
+        "children": [
+            {
+                "name": "Информация о сервере",
+                "icon": "fab fa-php",
+                "link": "serverinfo.php",
+                "activeItem": "serverinfo",
+                "accessLevel": ["developer"]
+            }, {
+                "name": "PHP переменные",
+                "icon": "fab fa-php",
+                "link": "inivars.php",
+                "activeItem": "inivars",
+                "accessLevel": ["developer"]
+            }
+        ]
+    },{
+        "name": "Управление шаблоном",
+        "icon": "fa fa-desktop",
+        "link": "javascript:;",
+        "accessLevel": ["developer"],
+        "activeItem": ["templates", "file-manager"],
+        "children": [
+            {
+                "name": "Редактор шаблона",
+                "icon": "fa fa-file-code",
+                "link": "templates.php",
+                "activeItem": "templates",
+                "accessLevel": ["developer"]
+            }, {
+                "name": "Файл менеджер",
+                "icon": "fa fa-file-code",
+                "link": "file-manager.php",
+                "activeItem": "file-manager",
+                "accessLevel": ["developer"]
+            }
+        ]
+    },{
+        "name": "Дополнительно",
+        "icon": "fa fa-info",
+        "link": "javascript:;",
+        "accessLevel": ["developer", "administrator"],
+        "activeItem": ["about", "documentation"],
+        "children": [
+            {
+                "name": "О проекте",
+                "icon": "fa fa-coffee",
+                "link": "about.php",
+                "activeItem": "about",
+                "accessLevel": ["developer", "administrator"]
+            }, {
+                "name": "Документация",
+                "icon": "fa fa-info",
+                "link": "documentation.php",
+                "activeItem": "documentation",
+                "accessLevel": ["developer", "administrator"]
+            }
+        ]
+    }
+ ]

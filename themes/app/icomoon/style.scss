@@ -1,0 +1,124 @@
+@import "variables";
+
+@font-face {
+  font-family: '#{$icomoon-font-family}';
+  src:
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?obmaem') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?obmaem') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?obmaem##{$icomoon-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icm"], [class*=" icm"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-family}' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icmtag {
+  &:before {
+    content: $icmtag; 
+  }
+}
+.icmtelegram {
+  &:before {
+    content: $icmtelegram; 
+  }
+}
+.icmtwitter-logo-silhouette {
+  &:before {
+    content: $icmtwitter-logo-silhouette; 
+  }
+}
+.icmzoom-in {
+  &:before {
+    content: $icmzoom-in; 
+  }
+}
+.icmangle-arrow-down {
+  &:before {
+    content: $icmangle-arrow-down; 
+  }
+}
+.icmcalendar-1 {
+  &:before {
+    content: $icmcalendar-1; 
+  }
+}
+.icmcalendar {
+  &:before {
+    content: $icmcalendar; 
+  }
+}
+.icmchecklist {
+  &:before {
+    content: $icmchecklist; 
+  }
+}
+.icmemail {
+  &:before {
+    content: $icmemail; 
+  }
+}
+.icmfacebook-logo {
+  &:before {
+    content: $icmfacebook-logo; 
+  }
+}
+.icmicon {
+  &:before {
+    content: $icmicon; 
+  }
+}
+.icminstagram-logo {
+  &:before {
+    content: $icminstagram-logo; 
+  }
+}
+.icmlinkedin-letters {
+  &:before {
+    content: $icmlinkedin-letters; 
+  }
+}
+.icmpaper-plane {
+  &:before {
+    content: $icmpaper-plane; 
+  }
+}
+.icmphone-call {
+  &:before {
+    content: $icmphone-call; 
+  }
+}
+.icmplace {
+  &:before {
+    content: $icmplace; 
+  }
+}
+.icmplaceholder-filled-point {
+  &:before {
+    content: $icmplaceholder-filled-point; 
+  }
+}
+.icmSeatch {
+  &:before {
+    content: $icmSeatch; 
+  }
+}
+.icmshopping-cart-of-checkered-design {
+  &:before {
+    content: $icmshopping-cart-of-checkered-design; 
+  }
+}
+

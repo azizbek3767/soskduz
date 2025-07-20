@@ -1,0 +1,1 @@
+SELECT name, fileName, settings FROM ls_payments  WHERE fileName='click'   LIMIT 0, 1

@@ -1,0 +1,7 @@
+Options -Indexes
+DirectoryIndex login.php?action[selfRedirect]=true
+DirectoryIndex /admin/login.php
+ErrorDocument 404 "Page Not Found"
+
+RewriteEngine On
+RewriteRule ^([a-z][a-z])/(.+)$ ../admin/$2?SITE_LANG=$1 [QSA]

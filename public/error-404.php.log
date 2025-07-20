@@ -1,0 +1,446 @@
+[2020-05-14 11:05:07] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-05-20 03:05:06] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-05-22 03:05:06] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-05-23 19:00:53] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-05-23 19:00:54] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-05-23 19:00:54] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-05-23 19:00:54] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-05-23 19:00:55] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-05-23 19:00:55] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-05-23 19:00:55] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-05-23 19:00:55] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-05-23 19:00:55] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-05-23 19:01:17] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-05-27 11:05:24] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-05-31 19:05:04] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-05-31 19:05:04] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-05-31 19:05:05] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-05-31 19:05:06] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-05-31 19:05:06] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-05-31 19:05:07] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-05-31 19:05:08] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-06-02 11:05:06] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-06-11 19:05:04] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-06-12 11:05:09] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-06-15 11:05:16] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-06-16 19:05:06] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-06-18 11:05:04] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-06-27 11:05:10] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-06-30 11:05:10] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-07-01 19:05:12] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-07-02 22:04:31] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-07-05 11:05:06] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-07-09 03:05:14] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-07-23 11:05:07] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-07-26 11:05:07] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-08-12 03:05:11] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-08-16 11:05:08] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-08-21 18:27:54] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-21 18:27:54] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-21 18:27:54] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-21 18:27:54] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-21 18:27:55] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-21 18:27:57] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-21 18:27:57] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-21 18:27:58] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-21 18:27:58] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-21 18:28:23] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-21 18:28:28] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-21 18:28:28] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-21 18:28:42] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-21 18:29:22] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-21 18:30:21] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-21 19:05:08] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-08-21 21:30:18] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-21 21:30:49] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-21 21:35:11] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-25 07:46:59] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-25 07:48:25] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-25 07:49:14] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-25 07:49:59] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-25 07:50:03] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-25 07:50:04] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-25 19:10:35] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-25 19:10:36] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-25 19:10:40] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-25 19:10:42] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-25 19:10:42] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-25 19:10:43] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-25 19:12:26] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-26 17:32:38] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-26 17:33:39] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-26 17:34:36] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-26 17:36:57] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-26 17:36:59] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-26 17:37:02] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-26 17:37:36] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-28 04:11:52] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-28 04:11:52] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-28 04:12:52] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-28 04:13:00] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-28 04:13:00] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-28 04:13:02] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-28 04:13:02] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-28 04:13:03] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-28 04:14:02] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-28 04:14:04] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-28 04:14:06] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-28 04:15:36] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-28 04:15:39] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-28 04:16:30] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-08-28 19:05:07] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-08-29 19:05:04] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-09-01 03:05:07] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-09-09 11:05:12] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-09-10 03:05:21] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-09-11 20:34:08] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-11 20:34:08] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-11 20:34:55] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-14 01:38:56] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-14 01:38:57] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-14 01:38:57] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-15 19:05:06] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-09-17 14:54:37] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-17 14:54:41] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-17 14:54:41] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-17 14:55:01] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-17 14:55:42] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-17 14:55:42] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-17 14:55:49] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-17 14:55:49] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-17 14:56:45] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-17 14:58:13] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-17 14:58:18] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-17 14:58:22] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-17 14:58:32] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-17 14:59:11] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-17 19:05:15] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-09-18 11:26:21] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:26:47] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:27:20] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:27:20] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:27:25] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:27:26] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:27:28] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:27:28] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:28:13] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:28:15] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:28:15] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:29:10] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:30:17] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:30:20] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:30:20] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:30:32] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:30:42] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:30:46] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:30:46] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:30:46] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:30:50] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:30:51] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:30:53] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:30:54] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-18 11:31:10] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 04:27:01] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 04:27:38] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 04:28:18] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 04:28:47] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 04:31:19] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 04:31:23] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 04:31:23] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 04:31:25] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 04:31:39] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 04:32:09] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 04:32:36] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 04:32:52] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 04:32:52] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 10:14:44] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 10:15:11] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 10:15:41] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 10:15:49] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 10:17:27] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 10:17:35] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 10:17:37] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-19 10:18:20] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-20 11:05:07] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-09-21 17:39:45] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-21 17:39:48] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-21 17:39:52] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-21 17:39:57] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-21 17:40:04] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-22 11:05:09] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-09-22 19:05:04] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-09-22 20:01:11] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-22 20:01:11] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-22 20:01:21] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-22 20:01:57] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-22 20:02:54] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-22 20:02:54] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-09-24 03:05:07] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-09-30 19:05:11] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-10-01 11:05:08] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-10-01 19:05:14] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-10-03 17:37:53] Database connection problem: 2019 : Can't initialize character set latin1 (path: /usr/share/mysql/charsets/)
+[2020-10-03 17:37:53] Database connection problem: 2019 : Can't initialize character set latin1 (path: /usr/share/mysql/charsets/)
+[2020-10-04 17:43:54] Database connection problem: 2019 : Can't initialize character set latin1 (path: /usr/share/mysql/charsets/)
+[2020-10-06 17:47:52] Database connection problem: 1135 : Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug
+[2020-10-08 18:11:40] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-10-08 18:11:40] Database connection problem: 1203 : User xakbar_sosnewr already has more than 'max_user_connections' active connections
+[2020-11-21 03:46:17] Database connection problem: 1040 : Too many connections
+[2020-12-15 18:20:59] Database connection problem: 1040 : Too many connections
+[2020-12-15 18:21:00] Database connection problem: 1040 : Too many connections
+[2020-12-19 03:32:12] Database connection problem: 1040 : Too many connections
+[2021-01-09 03:09:40] Database connection problem: 1040 : Too many connections
+[2021-05-15 03:10:11] Database connection problem: 1040 : Too many connections
+[2021-06-05 03:20:24] Database connection problem: 1040 : Too many connections
+[2021-07-17 04:46:45] Database connection problem: 1040 : Too many connections
+[2021-08-21 03:32:01] Database connection problem: 1040 : Too many connections
+[2021-09-03 23:30:05] Database connection problem: 2002 : No such file or directory
+[2021-09-03 23:30:11] Database connection problem: 2002 : No such file or directory
+[2021-09-03 23:30:15] Database connection problem: 2002 : No such file or directory
+[2021-09-04 07:52:03] Database connection problem: 1040 : Too many connections
+[2021-09-04 07:54:56] Database connection problem: 1040 : Too many connections
+[2021-09-04 07:55:07] Database connection problem: 1040 : Too many connections
+[2021-09-11 04:26:58] Database connection problem: 1040 : Too many connections
+[2021-09-11 08:22:34] Database connection problem: 1040 : Too many connections
+[2021-09-11 08:22:43] Database connection problem: 1040 : Too many connections
+[2021-09-11 08:23:47] Database connection problem: 1040 : Too many connections
+[2021-09-11 08:23:47] Database connection problem: 1040 : Too many connections
+[2021-09-11 08:23:50] Database connection problem: 1040 : Too many connections
+[2021-09-11 08:23:50] Database connection problem: 1040 : Too many connections
+[2021-09-25 03:30:02] Database connection problem: 1040 : Too many connections
+[2021-10-30 03:56:32] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:08] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:08] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:10] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:12] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:13] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:14] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:15] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:15] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:16] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:17] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:18] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:18] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:19] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:20] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:20] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:21] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:22] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:22] Database connection problem: 1040 : Too many connections
+[2021-10-30 04:00:23] Database connection problem: 1040 : Too many connections
+[2021-11-06 03:22:07] Database connection problem: 1040 : Too many connections
+[2021-11-06 05:31:29] Database connection problem: 2002 : No such file or directory
+[2021-11-25 10:10:57] Database connection problem: 1040 : Too many connections
+[2021-12-25 05:20:20] Database connection problem: 1040 : Too many connections
+[2021-12-25 05:20:20] Database connection problem: 1040 : Too many connections
+[2022-01-29 05:34:09] Database connection problem: 1040 : Too many connections
+[2022-04-02 05:30:24] Database connection problem: 2002 : No such file or directory
+[2022-07-04 16:55:36] Database connection problem: 2002 : Connection refused
+[2022-07-04 16:55:36] Database connection problem: 2002 : Connection refused
+[2022-12-10 19:07:23] Database connection problem: 1040 : Too many connections
+[2022-12-10 19:07:24] Database connection problem: 1040 : Too many connections
+[2022-12-10 19:15:31] Database connection problem: 1040 : Too many connections
+[2022-12-10 20:00:39] Database connection problem: 1040 : Too many connections
+[2022-12-10 20:01:26] Database connection problem: 1040 : Too many connections
+[2022-12-10 20:02:30] Database connection problem: 1040 : Too many connections
+[2022-12-10 20:08:11] Database connection problem: 1040 : Too many connections
+[2022-12-10 20:12:49] Database connection problem: 1040 : Too many connections
+[2022-12-10 20:26:04] Database connection problem: 1040 : Too many connections
+[2022-12-10 20:33:57] Database connection problem: 1040 : Too many connections
+[2022-12-10 20:34:53] Database connection problem: 1040 : Too many connections
+[2022-12-10 20:35:26] Database connection problem: 1040 : Too many connections
+[2022-12-10 20:36:14] Database connection problem: 1040 : Too many connections
+[2022-12-10 20:36:35] Database connection problem: 1040 : Too many connections
+[2022-12-10 20:39:23] Database connection problem: 1040 : Too many connections
+[2022-12-10 20:44:48] Database connection problem: 1040 : Too many connections
+[2022-12-10 21:10:11] Database connection problem: 1040 : Too many connections
+[2022-12-10 21:28:39] Database connection problem: 1040 : Too many connections
+[2022-12-10 21:29:26] Database connection problem: 1040 : Too many connections
+[2022-12-10 21:36:01] Database connection problem: 1040 : Too many connections
+[2022-12-10 22:10:44] Database connection problem: 1040 : Too many connections
+[2022-12-10 23:19:13] Database connection problem: 1040 : Too many connections
+[2022-12-10 23:25:53] Database connection problem: 1040 : Too many connections
+[2022-12-10 23:46:57] Datab[2023-04-01 10:41:31] Database connection problem: 1040 : Too many connections
+[2023-05-05 09:48:11] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-05-05 09:48:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-05-05 09:48:23] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-05-05 09:48:28] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-05-05 09:48:28] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-05-05 09:48:29] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-05-05 20:51:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-05-07 16:14:24] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-05-08 12:54:14] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-05-14 13:33:33] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-05-21 02:08:17] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-05-21 02:08:26] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-05-21 02:10:48] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-06-12 15:48:55] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-06-12 15:48:56] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-06-12 15:48:56] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-06-12 15:48:57] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-06-12 15:48:57] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-06-12 15:48:57] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-06-12 15:48:58] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-06-12 15:48:58] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-06-12 15:48:59] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-06-12 15:49:00] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-06-12 15:49:00] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-06-12 15:49:02] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-06-12 15:49:03] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-06-12 15:49:09] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-06-12 15:49:13] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:19] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:19] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:19] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:19] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:19] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:19] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:19] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:19] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:19] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:19] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:19] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:19] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:20] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:21] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:21] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:21] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:21] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:21] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:21] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:41] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:42] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:43] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:43] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:43] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:43] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:43] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:43] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:43] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:43] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:43] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:43] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:43] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:49] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:49] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:49] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:49] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:49] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:49] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:49] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:49] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:50] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-07-19 00:07:50] Database connection problem: 1203 : User soskduz_dbuser already has more than 'max_user_connections' active connections
+[2023-08-09 11:15:06] Database connection problem: 2002 : No such file or directory
+[2023-11-30 13:10:58] Database connection problem: 2002 : No such file or directory

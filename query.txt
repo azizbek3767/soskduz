@@ -1,0 +1,1 @@
+SELECT content FROM ls_en_sections  WHERE sectionId=63   LIMIT 0, 1

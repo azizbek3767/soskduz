@@ -1,0 +1,1 @@
+SELECT * FROM ls_currency  WHERE isDefault = '1'   LIMIT 0, 1

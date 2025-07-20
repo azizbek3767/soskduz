@@ -1,0 +1,19 @@
+<IfModule mod_autoindex>
+  Options -Indexes
+</IfModule>
+DirectoryIndex login.php?action[selfRedirect]=true
+DirectoryIndex /admin/login.php
+ErrorDocument 404 "Page Not Found"
+
+RewriteEngine On
+
+RewriteRule ^([a-z][a-z])/(.+)$ ../admin/$2?SITE_LANG=$1 [QSA]
+
+RewriteCond %{HTTP_HOST} !^$
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteCond %{HTTPS}s ^on(s)|
+RewriteRule ^ http%1://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+# Force SSL: From http://stackoverflow.com/q/24322035/
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=302,L,NE]

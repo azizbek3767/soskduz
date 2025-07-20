@@ -1,0 +1,1 @@
+SELECT status, COUNT(*) AS total FROM ls_admin_history  WHERE visitorIp='51.15.116.168' AND eventOn > '2025-07-17 04:05:28' - INTERVAL 1 HOUR AND action='login' GROUP BY status  

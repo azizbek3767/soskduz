@@ -1,0 +1,462 @@
+[17-Jun-2020 05:12:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15728745 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[17-Jun-2020 08:18:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15772950 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[17-Jun-2020 10:11:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15772950 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[17-Jun-2020 10:13:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15779346 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[17-Jun-2020 10:23:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15800010 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[17-Jun-2020 12:46:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15802391 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[17-Jun-2020 12:58:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15802938 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[17-Jun-2020 13:42:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15823520 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[17-Jun-2020 14:05:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15823520 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[17-Jun-2020 16:58:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15847039 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[17-Jun-2020 17:19:08 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15867703 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[17-Jun-2020 19:29:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15868803 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[17-Jun-2020 20:10:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15869350 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[17-Jun-2020 21:19:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15882981 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 02:53:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15909723 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 03:06:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15909723 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 03:34:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15951735 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 05:11:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15953325 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 06:01:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15954603 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 06:04:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15954603 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 07:12:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 09:19:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 13:11:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 14:24:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 14:28:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 15:46:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 16:09:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 16:55:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 17:44:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 18:30:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 20:14:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[18-Jun-2020 20:34:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 02:14:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 02:23:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 02:36:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 02:59:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 04:14:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 06:25:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 07:05:08 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 07:47:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 08:46:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 08:57:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 09:51:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 11:44:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 13:09:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 13:41:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 15:27:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 15:42:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 15:50:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 18:22:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 18:41:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 18:52:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 20:50:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 21:09:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 23:08:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[19-Jun-2020 23:41:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 00:59:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 02:55:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 05:31:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 05:57:08 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 07:42:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 08:26:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 08:55:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 10:46:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 13:41:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 13:50:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 14:37:08 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 15:30:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 16:30:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 17:46:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 19:08:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 19:43:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 20:46:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[20-Jun-2020 22:30:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 00:43:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 00:45:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 03:13:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 05:26:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 05:54:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 05:58:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 07:04:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 07:26:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 08:54:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 11:15:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 11:36:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 13:26:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 14:51:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 14:53:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 14:58:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 16:19:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 17:55:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 18:04:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 18:28:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 19:26:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 19:52:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 20:47:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[21-Jun-2020 23:52:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 01:58:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 04:02:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 04:23:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 05:40:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 05:58:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 06:48:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 07:33:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 09:16:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 10:21:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 10:25:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 11:47:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 12:17:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 12:29:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 13:22:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 13:37:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 14:03:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 14:15:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 14:47:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 15:19:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 17:19:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 19:04:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 20:22:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 21:20:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 21:50:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 22:03:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 22:40:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 22:41:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[22-Jun-2020 23:51:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[23-Jun-2020 02:53:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[23-Jun-2020 03:01:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[23-Jun-2020 03:48:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[23-Jun-2020 03:51:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[23-Jun-2020 05:01:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[23-Jun-2020 05:49:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[23-Jun-2020 06:30:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[23-Jun-2020 11:12:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[23-Jun-2020 11:46:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[23-Jun-2020 12:29:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[23-Jun-2020 12:43:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[23-Jun-2020 14:47:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[23-Jun-2020 15:31:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[23-Jun-2020 17:58:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[23-Jun-2020 19:01:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[23-Jun-2020 20:32:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[23-Jun-2020 20:58:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 01:05:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 01:17:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 03:22:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 03:58:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 04:24:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 05:15:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 09:53:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 10:39:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 10:53:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 11:29:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 11:50:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 11:56:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 14:01:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 14:27:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 15:28:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 17:42:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 21:26:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 21:30:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 21:40:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 22:01:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[24-Jun-2020 22:47:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 00:08:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 00:15:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 01:25:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 02:53:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 05:10:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 06:19:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 06:36:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 07:00:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 09:04:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 10:27:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 13:43:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 14:08:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 15:48:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 16:26:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 18:34:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 18:44:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 19:00:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 19:30:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 20:49:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 20:52:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 21:48:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 22:19:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[25-Jun-2020 23:43:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[26-Jun-2020 00:42:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[26-Jun-2020 01:31:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[26-Jun-2020 01:57:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[26-Jun-2020 04:53:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[26-Jun-2020 05:35:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[26-Jun-2020 06:23:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[26-Jun-2020 09:09:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[26-Jun-2020 11:07:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[26-Jun-2020 12:47:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[26-Jun-2020 13:22:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[26-Jun-2020 15:01:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[26-Jun-2020 16:44:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[26-Jun-2020 17:16:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[26-Jun-2020 17:58:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[26-Jun-2020 21:14:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[26-Jun-2020 21:20:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[26-Jun-2020 22:00:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 00:10:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 00:59:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 02:28:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 04:46:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 04:55:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 07:06:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 09:47:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 10:45:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 11:45:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 12:03:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 13:33:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 15:18:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 16:22:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 18:20:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 18:54:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 19:09:08 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 19:54:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 21:15:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 22:17:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 22:32:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 22:48:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 23:21:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 23:30:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[27-Jun-2020 23:46:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 01:35:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 04:30:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 06:41:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 07:18:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 07:53:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 07:57:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 08:16:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 08:45:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 09:21:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 10:39:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 11:57:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 13:57:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 15:38:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 16:43:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 17:26:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 17:30:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 18:23:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 18:49:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 20:04:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 21:19:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 21:46:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[28-Jun-2020 21:52:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 00:28:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 01:28:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 01:51:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 04:34:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 05:00:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 05:28:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 07:26:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 07:36:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 09:28:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 09:32:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 09:47:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 10:21:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 12:04:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 12:27:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 13:59:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 17:06:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 17:47:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 18:48:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 21:13:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 21:28:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[29-Jun-2020 22:03:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 00:31:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 01:45:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 01:52:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 02:37:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 03:21:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 04:17:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 04:53:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 05:26:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 06:06:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 07:48:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 12:12:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 12:31:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 13:03:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 15:16:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 15:53:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 17:28:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 19:13:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 20:16:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 21:21:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 21:35:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 23:24:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[30-Jun-2020 23:45:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[01-Jul-2020 00:30:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[01-Jul-2020 02:19:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[01-Jul-2020 03:00:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[01-Jul-2020 03:10:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[01-Jul-2020 03:17:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[01-Jul-2020 04:25:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[01-Jul-2020 04:26:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15982590 bytes) in /home/xakbar/public_html/includes/functions.inc.php on line 1172
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/overall.inc.php on line 74
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/overall.inc.php on line 76
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  Query failed: 2002. Query: SELECT codename, value FROM ls_uz_settings      in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 201
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  Query failed: 2002. Query: SELECT codename, value FROM ls_maps      in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 201
+[17-Jul-2020 11:05:28 UTC] PHP Warning:  require_once(/home/xakbar/public_html/themes//lang/ru.php): failed to open stream: No such file or directory in /home/xakbar/public_html/includes/core/App.php on line 69
+[17-Jul-2020 11:05:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/xakbar/public_html/themes//lang/ru.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/xakbar/public_html/includes/core/App.php on line 69
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/overall.inc.php on line 74
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/overall.inc.php on line 76
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  Query failed: 2002. Query: SELECT codename, value FROM ls_uz_settings      in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 201
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  Query failed: 2002. Query: SELECT codename, value FROM ls_maps      in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 201
+[25-Jul-2020 11:05:04 UTC] PHP Warning:  require_once(/home/xakbar/public_html/themes//lang/ru.php): failed to open stream: No such file or directory in /home/xakbar/public_html/includes/core/App.php on line 69
+[25-Jul-2020 11:05:04 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/xakbar/public_html/themes//lang/ru.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/xakbar/public_html/includes/core/App.php on line 69
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/overall.inc.php on line 74
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/overall.inc.php on line 76
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  Query failed: 2002. Query: SELECT codename, value FROM ls_settings      in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 201
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  Query failed: 2002. Query: SELECT codename, value FROM ls_maps      in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 201
+[01-Aug-2020 11:05:06 UTC] PHP Warning:  require_once(/home/xakbar/public_html/themes//lang/ru.php): failed to open stream: No such file or directory in /home/xakbar/public_html/includes/core/App.php on line 69
+[01-Aug-2020 11:05:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/xakbar/public_html/themes//lang/ru.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/xakbar/public_html/includes/core/App.php on line 69
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/overall.inc.php on line 74
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/overall.inc.php on line 76
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  Query failed: 2002. Query: SELECT codename, value FROM ls_en_settings      in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 201
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 163
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 165
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 166
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 167
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  Query failed: 2002. Query: SELECT codename, value FROM ls_maps      in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 201
+[12-Sep-2020 03:05:27 UTC] PHP Warning:  require_once(/home/xakbar/public_html/themes//lang/ru.php): failed to open stream: No such file or directory in /home/xakbar/public_html/includes/core/App.php on line 69
+[12-Sep-2020 03:05:27 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/xakbar/public_html/themes//lang/ru.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/xakbar/public_html/includes/core/App.php on line 69
+[26-Oct-2020 17:48:25 UTC] PHP Warning:  file_put_contents(): Only 0 of 47 bytes written, possibly out of free disk space in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 177
+[26-Oct-2020 17:48:25 UTC] PHP Warning:  file_put_contents(): Only 0 of 40 bytes written, possibly out of free disk space in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 177
+[26-Oct-2020 19:13:41 UTC] PHP Warning:  file_put_contents(): Only 0 of 44 bytes written, possibly out of free disk space in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 177
+[26-Oct-2020 19:13:41 UTC] PHP Warning:  file_put_contents(): Only 0 of 40 bytes written, possibly out of free disk space in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 177
+[26-Oct-2020 19:39:56 UTC] PHP Warning:  file_put_contents(): Only 0 of 47 bytes written, possibly out of free disk space in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 177
+[26-Oct-2020 19:39:56 UTC] PHP Warning:  file_put_contents(): Only 0 of 40 bytes written, possibly out of free disk space in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 177
+[26-Oct-2020 21:02:54 UTC] PHP Warning:  file_put_contents(): Only 0 of 44 bytes written, possibly out of free disk space in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 177
+[26-Oct-2020 21:02:54 UTC] PHP Warning:  file_put_contents(): Only 0 of 40 bytes written, possibly out of free disk space in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 177
+[26-Oct-2020 21:44:20 UTC] PHP Warning:  file_put_contents(): Only 0 of 47 bytes written, possibly out of free disk space in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 177
+[26-Oct-2020 21:44:20 UTC] PHP Warning:  file_put_contents(): Only 0 of 40 bytes written, possibly out of free disk space in /home/xakbar/public_html/includes/mysql-functions.inc.php on line 177
+[26-Oct-2020 22:03:22 UTC] PHP Warning:  file_put_contents(): Only 0 of 47 bytes written, possibly out of free disk space in /home/xakbar/public_html/includes/mysql-functions.in

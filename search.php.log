@@ -1,0 +1,5 @@
+[2020-07-17 11:05:28] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-07-25 11:05:04] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-08-01 11:05:06] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-09-12 03:05:27] Database connection problem: 2002 : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+[2020-12-05 03:16:56] Database connection problem: 1040 : Too many connections
